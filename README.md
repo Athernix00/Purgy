@@ -90,7 +90,6 @@ node index.js
 
 * **Discord.js v14**
 * **Node.js**
-* **Systeminformation**
 
 ---
 
