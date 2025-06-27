@@ -62,7 +62,7 @@ Displays an **interactive command list**, pinging each command with usage detail
 1. **Clone the Project**
 
 ```bash
-git clone https://github.com/your-username/purgy.git
+git clone https://github.com/Athernixxx000/Purgy.git
 cd purgy
 ```
 
