@@ -5,7 +5,6 @@
 > **Bot Name**: `Purgy`  
 > **Developer**: `fahim28_#0`  
 > **Built With**: `discord.js`, `Node.js`
-> **Purpose**: Purge messages within a specific time range, monitor bot stats, and provide simple utilities.
 
 ---
 
