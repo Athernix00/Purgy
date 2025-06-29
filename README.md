@@ -3,7 +3,7 @@
 ---
 
 > **Bot Name**: `Purgy`  
-> **Developer**: `fahim28_#0`  
+> **Developer**: `athernix0`  
 > **Built With**: `discord.js`, `Node.js`
 
 ---
@@ -46,7 +46,7 @@ Deletes **100 messages** between **25 May 2025** and **22 June 2025** in the cur
 
 ## 👤 `/bot_developer` Info:
 
-* 👨‍💻 **Developer**: `fahim28_#0`
+* 👨‍💻 **Developer**: `athernix0`
 * 🔗 **Contact**: Open issue or reach via Discord
 
 ---
@@ -61,26 +61,26 @@ Displays an **interactive command list**, pinging each command with usage detail
 
 1. **Clone the Project**
 
-```bash
+```
 git clone https://github.com/Athernixxx000/Purgy.git
 cd purgy
 ```
 
 2. **Install Dependencies**
 
-```bash
+```
 npm install
 ```
 
 3. **Configure `.env`**
 
-```env
+```
 DISCORD_TOKEN=your-bot-token
 ```
 
 4. **Run the Bot**
 
-```bash
+```
 node index.js
 ```
 
@@ -103,4 +103,4 @@ node index.js
 
 ## 🧼 Purgy — One Clean Channel at a Time!
 
-> © 2025 • Made with ❤️ by `fahim28_#0`
+> © 2025 • Made with ❤️ by `athernix0`
